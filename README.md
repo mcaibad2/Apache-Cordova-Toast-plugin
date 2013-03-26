@@ -1,4 +1,4 @@
-# Apache Cordova toast Android plugin
+# Apache Cordova Toast plugin
 By Andreas Daskalopoulos
 
 ## Using the plugin
@@ -9,6 +9,12 @@ By Andreas Daskalopoulos
 
 ```xml
 <plugin name="ToastPlugin" value="com.phonegap.plugins.toast.ToastPlugin"/>
+```
+
+* Add script tag 
+
+```javascript
+<script type="text/javascript" charset="utf-8" src="toast.js"></script>  
 ```
 
 * Call the plugin, specifying subject, text, success function, and failure function
