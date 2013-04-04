@@ -22,7 +22,7 @@ By Andreas Daskalopoulos
 ```javascript
 window.plugins.toast.longshow('Hello World!');
 
-window.plugins.toast.longshow('Hello World!');
+window.plugins.toast.shortshow('Hello World!');
 ```
 
 
