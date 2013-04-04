@@ -17,7 +17,7 @@ By Andreas Daskalopoulos
 <script type="text/javascript" charset="utf-8" src="toast.js"></script>  
 ```
 
-* Call the plugin, specifying subject, text, success function, and failure function
+* Call the plugin
 
 ```javascript
 window.plugins.toast.longshow('Hello World!');
