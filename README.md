@@ -11,7 +11,7 @@ By Andreas Daskalopoulos
 <plugin name="ToastPlugin" value="com.phonegap.plugins.toast.ToastPlugin"/>
 ```
 
-* Add script tag 
+* Copy javascript and use the script tag
 
 ```javascript
 <script type="text/javascript" charset="utf-8" src="toast.js"></script>  
